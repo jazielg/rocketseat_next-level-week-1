@@ -19,8 +19,31 @@ npx ts-node src/server.ts
 
 npm install ts-node-dev -D
 npx ts-node-dev src/server.ts
+
+npm run dev
 ```
 
 ```bash
 npx create-react-app web --template typescript
 ```
+
+# Video 2
+
+```bash
+npm install knex
+npm install sqlite3
+
+npx knex migrate:latest --knexfile knexfile.ts migrate:latest
+
+npm run knex:migrate
+
+# Executar seed
+npm run knex:seed
+
+npm install cors
+npm install @types/cors -D
+```
+
+#### Images gratuitas
+
+https://unsplash.com
