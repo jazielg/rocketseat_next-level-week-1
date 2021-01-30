@@ -47,3 +47,31 @@ npm install @types/cors -D
 #### Images gratuitas
 
 https://unsplash.com
+
+# Video 3
+
+```bash
+# Iniciar aplicação Web
+npm start
+
+# Inserir icones
+npm install react-icons
+
+# Rotas
+npm install react-router-dom
+npm install @types/react-router-dom -D
+```
+
+```bash
+#Utilizar mapa de código aberto
+## https://leafletjs.com
+## https://react-leaflet.js.org
+
+npm install leaflet@1.6.0 react-leaflet@2.7.0
+npm install -D @types/leaflet
+```
+
+```bash
+# Buscar na api
+npm install axios
+```
