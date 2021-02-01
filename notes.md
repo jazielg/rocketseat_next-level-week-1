@@ -15,11 +15,14 @@ npm install ts-node -D
 npx tsc --init
 
 # executar aquivo typescript
+## manualmente
 npx ts-node src/server.ts
 
+## Atualiza automaticamente apos o salvar
 npm install ts-node-dev -D
 npx ts-node-dev src/server.ts
 
+# Iniciar aplicação apos inserir o "script dev" no package.json
 npm run dev
 ```
 
@@ -153,10 +156,10 @@ npm install @types/hapi__joi -D
 
 Heroku - Básico
 Digital Ocean - Aplicação pequena
-AWS/Google Cloud/Microsoft Azure - Aplicação grande
+AWS, Google Cloud, Microsoft Azure - Aplicação grande
 
 ### Front-end
 
-Netlify(https://www.netlify.com Vercel), Vercel(https://vercel.com) - Aplicação pequena
+[Netlify](https://www.netlify.com Vercel), [Vercel](https://vercel.com) - Aplicação pequena
 
-Amazon S3/ Google Cloud Storage - Aplicação grande
+Amazon S3, Google Cloud Storage - Aplicação grande
