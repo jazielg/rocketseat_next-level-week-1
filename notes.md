@@ -1,4 +1,4 @@
-# Video 1 -
+# Video 1
 
 ```bash
 # iniciar projeto da api
@@ -125,3 +125,38 @@ expo install expo-mail-composer
 # Select Input - https://github.com/lawnstarter/react-native-picker-select
 npm i react-native-picker-select
 ```
+
+# Video 5
+
+```bash
+# server - upload de imagens
+npm install multer
+npm install @types/multer -D
+```
+
+```bash
+# web - react-dropzone https://github.com/react-dropzone/react-dropzone
+npm install react-dropzone
+```
+
+```bash
+# Validação  no Front-end - https://github.com/jquense/yup
+
+# Validação on Back-end - https://github.com/arb/celebrate
+npm install celebrate
+npm install @types/hapi__joi -D
+```
+
+## Deploy
+
+### Back-end
+
+Heroku - Básico
+Digital Ocean - Aplicação pequena
+AWS/Google Cloud/Microsoft Azure - Aplicação grande
+
+### Front-end
+
+Netlify(https://www.netlify.com Vercel), Vercel(https://vercel.com) - Aplicação pequena
+
+Amazon S3/ Google Cloud Storage - Aplicação grande
