@@ -1,7 +1,7 @@
 # Rocketseat Next Level Week #1
 
 <h1 align="center">
-    <img alt="Web Home" title="/" src=".github/Web_Home.png" width="300px" />
+    <img alt="Web Home" title="/" src=".github/Web_Home.png" width="534px" />
     <img alt="Web Create Point" title="/create-point" src=".github/Web_CreatePoint.png" width="150px" />
 </h1>
 
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔨 Como usar
 
-Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/), Node.js v12+ e [Npm](https://www.npmjs.com) instalado.
+Para clonar essa aplicação, você vai precisar de [Git](https://git-scm.com/), [Node.js v12+](https://nodejs.org/en/) e [Npm](https://www.npmjs.com) instalado.
 
 ### Iniciar API
 
