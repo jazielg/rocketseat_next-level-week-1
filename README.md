@@ -8,7 +8,7 @@
 <h1 align="center">
     <img alt="Mobile Home" title="Home" src=".github/Mobile_Home.jpg" width="250px" />
     <img alt="Mobile Points" title="Points" src=".github/Mobile_Points.jpg" width="250px" />
-    <img alt="Mobile Detail" title="Detail" src=".github/Mobile_Detail.png" width="250px" />
+    <img alt="Mobile Detail" title="Detail" src=".github/Mobile_Detail.jpg" width="250px" />
 </h1>
 
 ## 💻 Projeto
