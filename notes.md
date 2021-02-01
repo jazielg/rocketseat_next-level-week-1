@@ -75,3 +75,53 @@ npm install -D @types/leaflet
 # Buscar na api
 npm install axios
 ```
+
+# Video 4
+
+```bash
+# Instalar expo cli
+npm install -g expo-cli
+
+# Criar projeto mobile
+expo init mobile
+ > blank (TypeScript)
+```
+
+```bash
+# Instalar fontes - Expo Google Fonts (https://github.com/expo/google-fonts)
+expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+## Se tiver algum erro ao carregar fontes, executar: `rm -rf node_modules/ && rm -f package-lock.json && rm -f yarn.lock && npm cache verify && npm install && expo r -c`
+
+```
+
+```bash
+# Navegação
+## https://reactnavigation.org
+npm install @react-navigation/native
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+## https://reactnavigation.org/docs/stack-navigator/
+npm install @react-navigation/stack
+```
+
+```bash
+# Utilizar mapas
+expo install react-native-maps
+
+# Entender imagens em SVG
+expo install react-native-svg
+
+# Requisições com api
+npm install axios
+
+# Identificar a localização do usuário
+expo install expo-location
+
+# Email
+expo install expo-mail-composer
+
+# Select Input - https://github.com/lawnstarter/react-native-picker-select
+npm i react-native-picker-select
+```
